@@ -1,3 +1,1 @@
-__init__
-module
-module2
+DropSpending
