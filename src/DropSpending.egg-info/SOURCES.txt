@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/module.py
+src/module2.py
+src/DropSpending.egg-info/PKG-INFO
+src/DropSpending.egg-info/SOURCES.txt
+src/DropSpending.egg-info/dependency_links.txt
+src/DropSpending.egg-info/requires.txt
+src/DropSpending.egg-info/top_level.txt
